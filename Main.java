@@ -90,7 +90,6 @@ import java.util.Scanner;
         System.out.printf("Total Payments:         $%.2f", totalPayments);
 		
   }
-  
  }
 
 
